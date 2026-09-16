@@ -1,0 +1,30 @@
+## Executive Summary  
+The construction project is currently 70% complete, with structural work fully finished and MEP rough-in at 65%. The project is 12 calendar days behind the baseline schedule due to delayed equipment deliveries. The contractor anticipates receiving the equipment next week and is actively discussing schedule recovery strategies. The team addressed pending RFIs, budget status, and upcoming inspections in this bi-weekly meeting.  
+
+## Key Decisions  
+- The contractor will continue to implement schedule recovery plans once equipment arrives.  
+- Design team to prioritize responses to two outstanding RFIs to avoid further delays.  
+
+## Project Updates  
+- Structural work: 100% complete.  
+- MEP rough-in: 65% complete.  
+- Project timeline: Currently 12 calendar days behind baseline schedule.  
+- Equipment deliveries: Delayed but expected next week.  
+- Budget: Reviewed; no changes reported.  
+- Upcoming inspections: Scheduled as planned.  
+
+## Risks / Issues  
+- Delay in equipment delivery has caused a 12-day schedule slip.  
+- Two RFIs remain unanswered, potentially impacting progress on MEP rough-in completion.  
+
+## Action Items  
+- Contractor to manage equipment installation upon arrival next week to aid schedule recovery.  
+- Design team to provide responses to the two outstanding RFIs promptly to prevent further delays.  
+
+## Open Questions  
+- What specific measures will be implemented in the schedule recovery plan?  
+- Are there contingency plans if equipment delivery is further delayed?  
+
+## Management Attention Required  
+- Close monitoring of the equipment delivery and installation to minimize further schedule impact.  
+- Ensure design team prioritizes and expedites RFI responses.
